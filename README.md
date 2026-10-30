@@ -1,3 +1,4 @@
+📢 **Follow us on Telegram:** [НейроСреда](https://t.me/NeyroSr1da)
 AI Tools Directory
 A curated, practical directory of AI tools for research, writing, design, video, audio, coding, and automation.
 
