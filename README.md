@@ -88,6 +88,7 @@ Lovable	Creating web applications from prompts with a visual workflow.
 v0	Generating user interfaces and web applications with AI.
 Aider	Open-source AI pair programming in the terminal.
 Cline	Open-source AI coding agent that works in your development environment.
+[agent-qa](https://vostride.com)	Web and mobile QA through CLI/MCP with memidex persistent memory, validated self-improvement, and reviewable evidence.
 
 
 ⚙️ Automation and AI infrastructure
